@@ -1,1 +1,0 @@
-python ConvertFASTA.py myfile.txt result.fasta
